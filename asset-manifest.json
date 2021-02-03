@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ByeBuy/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/ByeBuy/static/js/main.dfe32414.chunk.js",
+    "main.js.map": "/ByeBuy/static/js/main.dfe32414.chunk.js.map",
+    "runtime-main.js": "/ByeBuy/static/js/runtime-main.60f16eec.js",
+    "runtime-main.js.map": "/ByeBuy/static/js/runtime-main.60f16eec.js.map",
+    "static/js/2.a4a16643.chunk.js": "/ByeBuy/static/js/2.a4a16643.chunk.js",
+    "static/js/2.a4a16643.chunk.js.map": "/ByeBuy/static/js/2.a4a16643.chunk.js.map",
+    "static/js/3.63fb59fc.chunk.js": "/ByeBuy/static/js/3.63fb59fc.chunk.js",
+    "static/js/3.63fb59fc.chunk.js.map": "/ByeBuy/static/js/3.63fb59fc.chunk.js.map",
+    "index.html": "/ByeBuy/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/ByeBuy/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.a4a16643.chunk.js.LICENSE.txt": "/ByeBuy/static/js/2.a4a16643.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ByeBuy/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60f16eec.js",
+    "static/js/2.a4a16643.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.dfe32414.chunk.js"
+  ]
+}
